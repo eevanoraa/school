@@ -1,4 +1,4 @@
-ievads = input("Ievadi tekstu ")
+ievads = input("Ievadi tekstu: ")
 
 ievads = ievads.lower()
 
